@@ -39,3 +39,4 @@ El script imprime por consola:
 ## Fuente de datos
 
 API pública del NIST NVD: `https://services.nvd.nist.gov/rest/json/cves/2.0`
+Sebastian Velasquez
