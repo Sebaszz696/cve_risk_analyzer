@@ -1,4 +1,4 @@
-# Etapa 3: Mapeo de Debilidades Técnicas (CWE) con Objetivos COBIT 2019
+# Etapa 3:
 
 **Objetivo:** Asociar 5 debilidades técnicas (CWE) con 3 objetivos de gobernanza COBIT 2019.
 
